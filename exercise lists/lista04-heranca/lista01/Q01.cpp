@@ -1,5 +1,5 @@
 /*
-Escreva uma classe Pessoa que tenha como atributos Id (Identidade), Nome e
+Escreva uma classe Pessoa que tenha como atributos Id (Idehttps://github.com/kauaneiras/CPP/tree/main/exercise%20lists/lista0x-herancantidade), Nome e
 Endereço. Ela tem um construtor para inicializar, uma função membro para
 entrada e uma função membro para mostrar os dados membros. Crie outra classe
 Estudante que herda a classe Pessoa. Ela tem como atributos adicionais a
